@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://franckgaliniephoto.github.io/drone-albi/sitemap.xml
