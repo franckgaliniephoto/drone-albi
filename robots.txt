@@ -1,4 +1,69 @@
+# robots.txt — Franck G. Drone, télépilote à Albi et dans le Tarn
+# https://franckgaliniephoto.github.io/drone-albi/
+
 User-agent: *
+Allow: /
+Disallow: /merci.html
+Disallow: /404.html
+
+# Moteurs de recherche classiques
+User-agent: Googlebot
+Allow: /
+
+User-agent: Googlebot-Image
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: DuckDuckBot
+Allow: /
+
+User-agent: Qwantify
+Allow: /
+
+User-agent: Applebot
+Allow: /
+
+# Moteurs génératifs et assistants IA (GEO) : accès autorisé
+# pour que le site puisse être lu et cité dans les réponses générées.
+User-agent: Google-Extended
+Allow: /
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Claude-User
+Allow: /
+
+User-agent: Claude-SearchBot
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Perplexity-User
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+User-agent: MistralAI-User
+Allow: /
+
+User-agent: CCBot
 Allow: /
 
 Sitemap: https://franckgaliniephoto.github.io/drone-albi/sitemap.xml

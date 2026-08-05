@@ -1,10 +1,24 @@
 {
-  "name": "Franck G. Drone — Albi & Tarn",
+  "name": "Franck G. Drone — Télépilote à Albi & dans le Tarn",
   "short_name": "Franck G. Drone",
-  "start_url": "./",
+  "description": "Prestations de prise de vue aérienne par drone à Albi et dans le Tarn : inspection de toiture, immobilier, événementiel et suivi de chantier.",
+  "start_url": "./?utm_source=pwa",
+  "scope": "./",
+  "id": "/drone-albi/",
   "display": "standalone",
+  "orientation": "portrait-primary",
   "background_color": "#f5f7f8",
   "theme_color": "#07131d",
   "lang": "fr-FR",
-  "icons": [{"src":"assets/favicon.svg","sizes":"any","type":"image/svg+xml","purpose":"any"}]
+  "dir": "ltr",
+  "categories": ["business", "photo", "productivity"],
+  "icons": [
+    {"src": "assets/favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any"},
+    {"src": "assets/favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "maskable"}
+  ],
+  "shortcuts": [
+    {"name": "Demander un devis", "url": "./#contact"},
+    {"name": "Inspection de toiture", "url": "./inspection-toiture-drone-albi.html"},
+    {"name": "Tarifs et devis", "url": "./tarifs-devis-drone-albi.html"}
+  ]
 }
