@@ -97,8 +97,8 @@ EOF
 - **Horaires d’ouverture** : non publiés, donc volontairement absents du JSON-LD.
   Pour les ajouter, insérer un `openingHoursSpecification` dans le nœud `#business`
   et les afficher aussi sur le site.
-- **Coordonnées GPS** : celles du JSON-LD (43.9333 / 2.2167) sont celles du bourg de
-  Saint-Juéry. À affiner avec les coordonnées exactes du 23 Avenue Germain Téqui.
+- **Coordonnées GPS** : le JSON-LD utilise les coordonnées exactes communiquées
+  pour le studio du 23 avenue Germain Téqui : 43.94851456213975 / 2.210739448460117.
 - **SIRET et statut juridique** : à confirmer avant publication.
 - **Avis clients** : aucun `AggregateRating` n’a été ajouté, car publier une note inventée
   enfreint les règles de Google et fait courir un risque juridique. À n’ajouter qu’avec
