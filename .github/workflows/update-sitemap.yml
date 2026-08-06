@@ -1,0 +1,40 @@
+name: Synchroniser le sitemap
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "**/*.html"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: sitemap-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  update-sitemap:
+    if: github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Récupérer le dépôt
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+
+      - name: Mettre à jour les dates du sitemap
+        run: node scripts/update-sitemap-lastmod.mjs "${{ github.event.before }}" "${{ github.sha }}"
+
+      - name: Publier le sitemap actualisé
+        run: |
+          if git diff --quiet -- sitemap.xml; then
+            echo "Le sitemap est déjà à jour."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add sitemap.xml
+          git commit -m "Actualise automatiquement le sitemap"
+          git push
+
