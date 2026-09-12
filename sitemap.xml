@@ -3,7 +3,7 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://dronetarn.fr/</loc>
-    <lastmod>2026-08-06</lastmod>
+    <lastmod>2026-09-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
     <image:image>
@@ -21,56 +21,66 @@
   </url>
   <url>
     <loc>https://dronetarn.fr/inspection-toiture-drone-albi.html</loc>
-    <lastmod>2026-08-06</lastmod>
+    <lastmod>2026-09-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
     <loc>https://dronetarn.fr/drone-immobilier-albi.html</loc>
-    <lastmod>2026-08-06</lastmod>
+    <lastmod>2026-09-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
     <loc>https://dronetarn.fr/drone-evenementiel-tarn.html</loc>
-    <lastmod>2026-08-06</lastmod>
+    <lastmod>2026-09-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
     <loc>https://dronetarn.fr/suivi-chantier-surveillance-drone-tarn.html</loc>
-    <lastmod>2026-08-06</lastmod>
+    <lastmod>2026-09-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
     <loc>https://dronetarn.fr/tarifs-devis-drone-albi.html</loc>
-    <lastmod>2026-08-06</lastmod>
+    <lastmod>2026-09-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://dronetarn.fr/reglementation-drone-albi-tarn.html</loc>
-    <lastmod>2026-08-06</lastmod>
+    <lastmod>2026-09-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://dronetarn.fr/zones-intervention.html</loc>
-    <lastmod>2026-08-06</lastmod>
+    <lastmod>2026-09-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://dronetarn.fr/mentions-legales.html</loc>
-    <lastmod>2026-08-06</lastmod>
+    <lastmod>2026-09-12</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.2</priority>
   </url>
   <url>
     <loc>https://dronetarn.fr/politique-confidentialite.html</loc>
-    <lastmod>2026-08-06</lastmod>
+    <lastmod>2026-09-12</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.2</priority>
+  </url>
+  <url>
+    <loc>https://dronetarn.fr/404.html</loc>
+    <lastmod>2026-09-12</lastmod>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://dronetarn.fr/merci.html</loc>
+    <lastmod>2026-09-12</lastmod>
+    <changefreq>monthly</changefreq>
   </url>
 </urlset>
