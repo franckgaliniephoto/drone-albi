@@ -29,19 +29,19 @@
 
 ## Prestations
 
-- [Inspection de toiture par drone](https://franckgaliniephoto.github.io/drone-albi/inspection-toiture-drone-albi.html) : constat visuel photo et vidéo de l'état apparent d'une couverture (tuiles, faîtage, cheminée, solins, gouttières, façades hautes) après intempéries, avant ou après travaux. Inspection **visuelle uniquement** : ni thermographie, ni diagnostic technique — l'interprétation revient au couvreur, à l'expert ou à l'assureur.
-- [Photo et vidéo immobilière par drone](https://franckgaliniephoto.github.io/drone-albi/drone-immobilier-albi.html) : valorisation de maisons, terrains, domaines, gîtes et programmes immobiliers pour annonces, sites internet et supports commerciaux. Formats HD, web et verticaux.
-- [Captation événementielle par drone](https://franckgaliniephoto.github.io/drone-albi/drone-evenementiel-tarn.html) : mariage, séminaire, portes ouvertes, événement sportif, spectacle. Préparée avec l'organisateur, sans survol du public.
-- [Suivi de chantier et observation de site](https://franckgaliniephoto.github.io/drone-albi/suivi-chantier-surveillance-drone-tarn.html) : passages planifiés avec angles reproductibles, photos datées et classées pour le BTP, les maîtres d'œuvre et les collectivités. Aucune surveillance de personnes.
+- [Inspection de toiture par drone](https://dronetarn.fr/inspection-toiture-drone-albi.html) : constat visuel photo et vidéo de l'état apparent d'une couverture (tuiles, faîtage, cheminée, solins, gouttières, façades hautes) après intempéries, avant ou après travaux. Inspection **visuelle uniquement** : ni thermographie, ni diagnostic technique — l'interprétation revient au couvreur, à l'expert ou à l'assureur.
+- [Photo et vidéo immobilière par drone](https://dronetarn.fr/drone-immobilier-albi.html) : valorisation de maisons, terrains, domaines, gîtes et programmes immobiliers pour annonces, sites internet et supports commerciaux. Formats HD, web et verticaux.
+- [Captation événementielle par drone](https://dronetarn.fr/drone-evenementiel-tarn.html) : mariage, séminaire, portes ouvertes, événement sportif, spectacle. Préparée avec l'organisateur, sans survol du public.
+- [Suivi de chantier et observation de site](https://dronetarn.fr/suivi-chantier-surveillance-drone-tarn.html) : passages planifiés avec angles reproductibles, photos datées et classées pour le BTP, les maîtres d'œuvre et les collectivités. Aucune surveillance de personnes.
 - Tourisme, patrimoine et communication professionnelle : visuels aériens pour communes, entreprises et supports de présentation.
 
 ## Ressources
 
-- [Tarifs et devis](https://franckgaliniephoto.github.io/drone-albi/tarifs-devis-drone-albi.html) : critères de tarification et contenu d'un devis
-- [Réglementation et faisabilité d'un vol](https://franckgaliniephoto.github.io/drone-albi/reglementation-drone-albi-tarn.html) : zones de restriction autour d'Albi, hauteur de vol, survol des personnes, droit à l'image, glossaire
-- [Zones d'intervention](https://franckgaliniephoto.github.io/drone-albi/zones-intervention.html) : communes couvertes et distances indicatives
-- [Mentions légales](https://franckgaliniephoto.github.io/drone-albi/mentions-legales.html)
-- [Politique de confidentialité](https://franckgaliniephoto.github.io/drone-albi/politique-confidentialite.html)
+- [Tarifs et devis](https://dronetarn.fr/tarifs-devis-drone-albi.html) : critères de tarification et contenu d'un devis
+- [Réglementation et faisabilité d'un vol](https://dronetarn.fr/reglementation-drone-albi-tarn.html) : zones de restriction autour d'Albi, hauteur de vol, survol des personnes, droit à l'image, glossaire
+- [Zones d'intervention](https://dronetarn.fr/zones-intervention.html) : communes couvertes et distances indicatives
+- [Mentions légales](https://dronetarn.fr/mentions-legales.html)
+- [Politique de confidentialité](https://dronetarn.fr/politique-confidentialite.html)
 
 ## Tarifs
 
@@ -62,7 +62,7 @@ de faisabilité. Un vol annulé pour cause de météo n'est pas facturé.
 
 Pour un devis : indiquer le lieu exact (adresse précise, pas seulement la commune), la date
 envisagée, l'objectif des images et le type de bâtiment ou d'événement, via le
-[formulaire de contact](https://franckgaliniephoto.github.io/drone-albi/#contact) ou par
+[formulaire de contact](https://dronetarn.fr/#contact) ou par
 téléphone au +33 7 57 81 36 40.
 
 Dernière mise à jour : 2026-08-04

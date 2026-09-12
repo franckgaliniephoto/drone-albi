@@ -1,5 +1,5 @@
 # robots.txt — Franck G. Drone, télépilote à Albi et dans le Tarn
-# https://franckgaliniephoto.github.io/drone-albi/
+# https://dronetarn.fr/
 
 User-agent: *
 Allow: /
@@ -66,4 +66,4 @@ Allow: /
 User-agent: CCBot
 Allow: /
 
-Sitemap: https://franckgaliniephoto.github.io/drone-albi/sitemap.xml
+Sitemap: https://dronetarn.fr/sitemap.xml

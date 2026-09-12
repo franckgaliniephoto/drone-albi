@@ -1,7 +1,7 @@
 # Site Drone Albi — Franck G. Photographie
 
 Site vitrine statique, responsive et optimisé SEO/GEO pour GitHub Pages.
-Adresse : `https://franckgaliniephoto.github.io/drone-albi/`
+Adresse : `https://dronetarn.fr/`
 
 ## Structure du site
 
@@ -26,8 +26,20 @@ Fichiers pour les moteurs : `robots.txt`, `sitemap.xml`, `llms.txt`, `manifest.w
 2. Dans **Settings → Pages**, choisissez **Deploy from a branch**, branche **main**, dossier **/(root)**.
 3. Envoyez une première fois le formulaire, puis validez l’email d’activation de FormSubmit.
 
-Si le nom du dépôt ou le domaine change, remplacez partout `https://franckgaliniephoto.github.io/drone-albi/` :
-balises `canonical`, `hreflang`, Open Graph, JSON-LD, `sitemap.xml`, `robots.txt`, `llms.txt` et le champ `_next` du formulaire.
+## Nom de domaine
+
+Le site est servi sur le domaine personnalisé **dronetarn.fr**, déclaré par le fichier `CNAME`
+à la racine du dépôt. Ne supprimez pas ce fichier : GitHub Pages repasserait sur
+`franckgaliniephoto.github.io/drone-albi/`.
+
+DNS chez IONOS : quatre enregistrements `A` et quatre `AAAA` sur l’apex (`@`) pointant vers
+GitHub Pages, plus un `CNAME` `www` vers `franckgaliniephoto.github.io.`. Jamais de `CNAME`
+sur l’apex. GitHub redirige automatiquement l’ancienne adresse `github.io` en 301, ce qui
+préserve le référencement acquis : ne renommez pas le dépôt et ne supprimez pas la branche `main`.
+
+Si le domaine change à nouveau, remplacez partout `https://dronetarn.fr/` : balises `canonical`,
+`hreflang`, Open Graph, JSON-LD, `sitemap.xml`, `robots.txt`, `llms.txt`, le fichier `CNAME`
+et le champ `_next` du formulaire.
 
 ## Optimisations SEO en place
 
